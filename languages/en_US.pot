@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-02-27 14:47-0300\n"
+"PO-Revision-Date: 2020-02-27 14:48-0300\n"
+"Last-Translator: Sumaya Távora <sumayatavora@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;_x;_nx;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:15
+msgid "Unfortunately, the page you tried to reach does not exist on this site!"
+msgstr ""
+
+#: 404.php:19
+msgid "How about doing a search?"
+msgstr ""
+
+#: 404.php:21
+msgid "Latest Posts"
+msgstr ""
+
+#: archive.php:27 index.php:23
+msgid "<< Newer post"
+msgstr ""
+
+#: archive.php:29 index.php:25
+msgid " Older posts >>"
+msgstr ""
+
+#: comments-novo.php:34
+msgid "Leave a comment"
+msgstr ""
+
+#: comments-novo.php:37
+#, php-format
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments-novo.php:42
+#, php-format
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments-novo.php:74
+msgid "Newer Comments"
+msgstr ""
+
+#: comments-novo.php:75
+msgid "Older Comments"
+msgstr ""
+
+#: comments-novo.php:127 comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: functions.php:55
+msgid "Home Page Sidebar"
+msgstr ""
+
+#: functions.php:57 functions.php:68
+msgid "Sidebar to be used on Home Page"
+msgstr ""
+
+#: functions.php:66
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:77
+msgid "Services 1"
+msgstr ""
+
+#: functions.php:79
+msgid "First Services Area."
+msgstr ""
+
+#: functions.php:88
+msgid "Services 2"
+msgstr ""
+
+#: functions.php:90
+msgid "Second Services Area."
+msgstr ""
+
+#: functions.php:99
+msgid "Services 3"
+msgstr ""
+
+#: functions.php:101 functions.php:112
+msgid "Third Services Area."
+msgstr ""
+
+#: functions.php:110
+msgid "Social Icons"
+msgstr ""
+
+#: general-template.php:32 index.php:31
+msgid "There&rsquo;s nothing yet to be displayed..."
+msgstr ""
+
+#: inc/customizer.php:9 inc/customizer.php:24
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer.php:10
+msgid "Copyright Section"
+msgstr ""
+
+#: inc/customizer.php:17
+msgid "Copyright X - All rights reserved"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "Choose whether to show the Services section or not"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Map"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "Map Section"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "API Key"
+msgstr ""
+
+#: inc/customizer.php:54
+#, php-format
+msgid "Get your key <a target=\"_blank\" href=\"%s\">here</a>"
+msgstr ""
+
+#: inc/customizer.php:74
+msgid "Type your address here"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "No special characters allowed"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid "Slider Section"
+msgstr ""
+
+#: inc/customizer.php:102
+msgid "Choose your design type here"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "Choose your design type"
+msgstr ""
+
+#: inc/customizer.php:107
+msgid "Design Type 1"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Design Type 2"
+msgstr ""
+
+#: inc/customizer.php:109
+msgid "Design Type 3"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "Design Type 4"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "Number of posts to display"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Choose the number of posts to be displayed"
+msgstr ""
+
+#: page-home.php:12
+msgid "Our Services"
+msgstr ""
+
+#: page-home.php:53
+msgid "Lastest News"
+msgstr ""
+
+#: search.php:5
+msgid "Search results for:"
+msgstr ""
+
+#: search.php:22
+msgid "Previous"
+msgstr ""
+
+#: search.php:23
+msgid "Next"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:15
+msgid "Ok"
+msgstr ""
+
+#: template-parts/content-archive.php:4 template-parts/content-video.php:5
+#: template-parts/content.php:4
+msgid "Published in"
+msgstr ""
+
+#: template-parts/content-archive.php:4 template-parts/content-secondary.php:11
+msgid "by"
+msgstr ""
+
+#: template-parts/content-archive.php:5 template-parts/content-category.php:5
+#: template-parts/content-featured.php:11 template-parts/content-image.php:8
+#: template-parts/content-search.php:8 template-parts/content-secondary.php:13
+#: template-parts/content-single.php:8 template-parts/content-video.php:7
+#: template-parts/content.php:6
+msgid "Tags: "
+msgstr ""
+
+#: template-parts/content-featured.php:9
+msgid "by:"
+msgstr ""
+
+#: template-parts/content-featured.php:10 template-parts/content-image.php:7
+#: template-parts/content-search.php:6 template-parts/content-secondary.php:12
+#: template-parts/content-single.php:7 template-parts/content-video.php:6
+#: template-parts/content.php:5
+msgid "Categories:"
+msgstr ""
+
+#: template-parts/content-single.php:6
+msgid "Posted in"
+msgstr ""
